@@ -25,7 +25,7 @@ spec:
         app.kubernetes.io/instance: jvm-build-suite-component-zsrq
     spec:
       containers:
-      - image: hacbs-jvm-build-test-project:latest
+      - image: quay.io/qijing/jvm-build-mdmy-tenant/jvm-build-suite-application-biyb/jvm-build-suite-component-zsrq@sha256:4063f49f45b1b60949abb802da4f5ecac65ece333a81669444493ce3e0f0a34d
         name: hacbs-jvm-build-test-project
         ports:
         - containerPort: 8081
