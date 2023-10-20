@@ -11,7 +11,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/qijing/jvm-build-mdmy-tenant/jvm-build-suite-application-biyb/jvm-build-suite-component-zsrq@sha256:cc44ce547ef71e6b5cae6d768c61d12f46f88f4d763c5c2d946e403e86645d24
+      - image: quay.io/qijing/jvm-build-mdmy-tenant/jvm-build-suite-application-biyb/jvm-build-suite-component-zsrq@sha256:4063f49f45b1b60949abb802da4f5ecac65ece333a81669444493ce3e0f0a34d
         name: hacbs-jvm-build-test-project
         resources: {}
 status: {}
